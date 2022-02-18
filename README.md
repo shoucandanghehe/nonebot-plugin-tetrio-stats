@@ -7,5 +7,5 @@ TETRIO Stats
 
  | 指令 | 说明 |
  | --------- | --------- |
- | io查USERID | 查询游戏统计信息 |
- | iobind | 绑定自己的账号 |
+ | io查`USERID` | 查询游戏统计信息 |
+ | iobind`USERID` | 绑定自己的账号 |
