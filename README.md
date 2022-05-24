@@ -1,3 +1,5 @@
+本项目已弃用，请使用[nonebot-plugin-tetris-stats](https://github.com/shoucandanghehe/nonebot-plugin-tetris-stats)
+===
 TETRIO Stats
 ===
 一个在nonebot2中查询TETRIO玩家数据的插件，同时支持绑定TETRIO账号
